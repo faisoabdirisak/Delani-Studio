@@ -52,3 +52,25 @@ padding: 10px;
 h6{
     font-weight: bold;
 }
+
+/*------portfolio-----*/
+
+.portfolio h4{
+    text-align: center;
+    
+    }
+    .portfolio{
+       margin-top: 50px;
+       margin-bottom: 50px;
+    }
+    
+    .col-md-3{
+        width:25%;
+        
+    }
+    .por{
+        margin-left: 100px;
+        margin-right: 100px;
+        text-align: center;
+        
+    }
