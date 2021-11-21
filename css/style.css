@@ -74,3 +74,45 @@ h6{
         text-align: center;
         
     }
+    /*-----contact------*/
+.contact{
+    background-image: url(../images/assets/backgrounds/c_image.jpg);
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+  
+}
+.contact h4{
+    padding-top: 50px;
+}
+.con{
+    text-align: center;
+}
+.contact input[type="text"], input[type="email"]{
+    border: 1px solid #fff;
+    background: transparent;
+    width: 60%;
+    font-size: 15px;
+    color: #fff;
+    margin: 30px;
+}
+
+.contact input[type="email"]{
+    margin-left: -250px;
+}
+
+.contact input[type="text"]{
+    margin-left: 250px;
+}
+
+::placeholder{
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}
+textarea{
+    background: transparent;
+    
+}
