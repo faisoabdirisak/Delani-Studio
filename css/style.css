@@ -36,3 +36,19 @@ h1{
     padding: 110px;
     margin-top: 40px;
 }
+/*-------- DO SECTION-------*/
+.do{
+    margin-top: 40px;
+text-align: center;
+padding: 10px;
+}
+#des-content, #dev-content, #pro-content{
+    text-align: center;
+     display: none; 
+}
+.col-md-4{
+    text-align: center;
+}
+h6{
+    font-weight: bold;
+}
