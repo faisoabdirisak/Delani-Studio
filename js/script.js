@@ -32,5 +32,11 @@ $(document).ready(function() {
             });
 
 
-            
+              // Bussiness logic
+
+              $("form").submit(function() {
+                var formName= $("input#Name").val();
+                alert(formName+"   We've received your message "+". Thank you for contacting us");
+               
+              });
         });
