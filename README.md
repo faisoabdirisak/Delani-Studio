@@ -4,13 +4,13 @@
 
 ## Live link to this project's GitHub Pages.
 
-### [View Live Site]()
+### [View Live Site](https://faisoabdirisak.github.io/Delani-Studio/)
 
 ## Table of Content
 
 + [Description](#description)
-+ [Installation Requirement](#Installation)
-+ [BDD](#BDD)
++ [Installation Requirement](#Installation/Requirements)
++ [BDD](#Behaviour Driven Development(BDD))
 + [Technology Used](#technology-used)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
