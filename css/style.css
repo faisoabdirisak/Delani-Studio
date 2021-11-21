@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Poppins:ital,wght@0,300;1,100&family=Roboto:ital,wght@0,100;0,300;1,500&family=Source+Sans+Pro:wght@200;600&display=swap');
+
+/* ; */
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.home{
+    background-image: url(../images/assets/backgrounds/h_img.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+    color: white;
+
+}
+img[src="images/assets/logo/logo.png"]{
+    margin-top: 110px;
+}
+h1{
+    font-size: 30px;
+    letter-spacing: 5px;
+}
